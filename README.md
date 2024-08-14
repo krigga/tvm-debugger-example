@@ -1,6 +1,6 @@
 # TVM debugger example
 
-This is a blueprint project showcasing how to setup TVM debugger. In order to do that, you need to follow a few simple steps. The first 3 steps are already done in this repo, but if you want to set TVM debugger in your own projects, you need to do them all.
+This is a blueprint project showcasing how to setup TVM debugger. In order to do that, you need to follow a few simple steps. The first 3 steps are already done in this repo, but if you want to setup TVM debugger in your own projects, you need to do them all.
 
 1) Use the beta versions of blueprint and sandbox that include the debugger, like so:
 ```json

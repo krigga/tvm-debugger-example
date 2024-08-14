@@ -726,10 +726,10 @@
     jssha "3.2.0"
     tweetnacl "1.0.3"
 
-"@ton/sandbox@^0.21.0-debugger.0":
-  version "0.21.0-debugger.0"
-  resolved "https://registry.yarnpkg.com/@ton/sandbox/-/sandbox-0.21.0-debugger.0.tgz#b6b8d89580e1d66249a8e97aed7be034ad17ad47"
-  integrity sha512-SCQUvH6FISQIJjl+kIYVdZSMo6FTMNFEqCyraiQeirMj6VHSCJR4SKgiW+LOGth2/XVjYXku+YFs3gr9KskCMQ==
+"@ton/sandbox@^0.21.0-debugger.1":
+  version "0.21.0-debugger.1"
+  resolved "https://registry.yarnpkg.com/@ton/sandbox/-/sandbox-0.21.0-debugger.1.tgz#56e91dd5d56e454b4c6948d44a8cab5a536cc80d"
+  integrity sha512-eFt6sR3HwCIaAM7pT3fChuS7BPUHGKqPyY7T9iGabYWBa2A8y2Rp8DA1KLRbOTrXXVb+OCW/7trfnJWpHCvfgQ==
   dependencies:
     "@vscode/debugadapter" "^1.66.0"
 

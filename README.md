@@ -4,8 +4,8 @@ This is a blueprint project showcasing how to setup TVM debugger. In order to do
 
 1) Use the beta versions of blueprint and sandbox that include the debugger, like so:
 ```json
-"@ton/blueprint": "^0.23.0-debugger.0",
-"@ton/sandbox": "^0.21.0-debugger.1",
+"@ton/blueprint": "^0.23.0-debugger.1",
+"@ton/sandbox": "^0.21.0-debugger.2",
 ```
 (put this in your `package.json`)
 

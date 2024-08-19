@@ -8,8 +8,8 @@
         "test": "jest --verbose"
     },
     "devDependencies": {
-        "@ton/blueprint": "^0.23.0-debugger.1",
-        "@ton/sandbox": "^0.21.0-debugger.2",
+        "@ton/blueprint": "^0.23.0-debugger.2",
+        "@ton/sandbox": "^0.21.0-debugger.3",
         "@ton/test-utils": "^0.4.2",
         "@types/jest": "^29.5.12",
         "@types/node": "^20.14.10",

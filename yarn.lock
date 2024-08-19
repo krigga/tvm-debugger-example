@@ -673,27 +673,27 @@
   resolved "https://registry.yarnpkg.com/@tact-lang/opcode/-/opcode-0.0.16.tgz#cc9e4117ce706d8bb6e054a520bab719f70adf96"
   integrity sha512-YJTUjoDOy+e+FHHppJiF+uWJ2IMjVknB9VQ5n78pknCE129DazCb/nFXnw0wVRDVcn8Tn59ky+pmjiQjQOjEbw==
 
-"@ton-community/func-js-bin@0.4.4-debuginfo.1":
-  version "0.4.4-debuginfo.1"
-  resolved "https://registry.yarnpkg.com/@ton-community/func-js-bin/-/func-js-bin-0.4.4-debuginfo.1.tgz#95d178c437959987ca8689d09a590432b6227e14"
-  integrity sha512-iPg1X0e+QgMlqo9gg+M2//ix3Q8gFlJ8Q2C/vRGwejE0muf+45x9V3gSi2UImH64bKtt1R1rhBa+8QDioBqC9w==
+"@ton-community/func-js-bin@0.4.4-debuginfo.2":
+  version "0.4.4-debuginfo.2"
+  resolved "https://registry.yarnpkg.com/@ton-community/func-js-bin/-/func-js-bin-0.4.4-debuginfo.2.tgz#e366a28da87e99d928c4ee42000dc317807f1668"
+  integrity sha512-WWy2ph00Da8oR0uz4cXjRc1sIXZEWFE3XrVpbhrTTkVkQ9oOvhd1U2BztHCSzXEUZPh49ffCIWhnGr9XgImHvA==
 
-"@ton-community/func-js@^0.8.0-debuginfo.1":
-  version "0.8.0-debuginfo.1"
-  resolved "https://registry.yarnpkg.com/@ton-community/func-js/-/func-js-0.8.0-debuginfo.1.tgz#4aa0156978d10d217025e77154fbda58028a8f03"
-  integrity sha512-peF/1wmC7A8ikcSjigGJpya9+DhyK4YPg7CYo/oJ7p+WTtXIhL+oEofreMG89A+PEzxwVwJ1emEuTXl4HhmJdw==
+"@ton-community/func-js@^0.8.0-debuginfo.2":
+  version "0.8.0-debuginfo.2"
+  resolved "https://registry.yarnpkg.com/@ton-community/func-js/-/func-js-0.8.0-debuginfo.2.tgz#fe08488bc10c2522f1916fedc3bbd0d55c8080c6"
+  integrity sha512-fjvi8w3jh+cpsuaIWZL35jIcaZ+4N6fmZk0IcrlhUW6cBciqhVMm0eYe6o8nX0vWycgr2SniYNmIDHtU7BlBdA==
   dependencies:
-    "@ton-community/func-js-bin" "0.4.4-debuginfo.1"
+    "@ton-community/func-js-bin" "0.4.4-debuginfo.2"
     arg "^5.0.2"
 
-"@ton/blueprint@^0.23.0-debugger.1":
-  version "0.23.0-debugger.1"
-  resolved "https://registry.yarnpkg.com/@ton/blueprint/-/blueprint-0.23.0-debugger.1.tgz#f69caae88c533e549c2cc7b0f0307ba514a9f5e2"
-  integrity sha512-TjIs981SgVoUx2Vo7pKanL3g7AK/FScToMoV9QSJ3BlpAdsCBWLdbbUBsugUedQdYfbJH4xtD+0eKRo/4Rod6w==
+"@ton/blueprint@^0.23.0-debugger.2":
+  version "0.23.0-debugger.2"
+  resolved "https://registry.yarnpkg.com/@ton/blueprint/-/blueprint-0.23.0-debugger.2.tgz#5255acc74c17182b2c285fe21e7798659e63b05b"
+  integrity sha512-l3PY8cOxyDksiyQc++wGuQM95P6yOtBXPSqTCO3jO8PDvuI8fxyjF1ZksQ3sA/sqwjzakAtu178/0VrdFqDZYg==
   dependencies:
     "@orbs-network/ton-access" "^2.3.3"
     "@tact-lang/compiler" "^1.4.0"
-    "@ton-community/func-js" "^0.8.0-debuginfo.1"
+    "@ton-community/func-js" "^0.8.0-debuginfo.2"
     "@tonconnect/sdk" "^2.2.0"
     arg "^5.0.2"
     chalk "^4.1.0"
@@ -726,10 +726,10 @@
     jssha "3.2.0"
     tweetnacl "1.0.3"
 
-"@ton/sandbox@^0.21.0-debugger.2":
-  version "0.21.0-debugger.2"
-  resolved "https://registry.yarnpkg.com/@ton/sandbox/-/sandbox-0.21.0-debugger.2.tgz#423dae8c1807bfb8645882397f33ffefc5e2d99b"
-  integrity sha512-PbrkuSdlXgmsqPDqeIo5uvBaULxAxdZ32Dg3E3oo7m/f619zq46qiQTravKEkgl1IaI3/cwJd1FeMCAADffKgA==
+"@ton/sandbox@^0.21.0-debugger.3":
+  version "0.21.0-debugger.3"
+  resolved "https://registry.yarnpkg.com/@ton/sandbox/-/sandbox-0.21.0-debugger.3.tgz#5a222c5fbd40bab8a1719ded4a2045e134f86a80"
+  integrity sha512-B1YOPakpee0zS6nGj53ylxKBvoGOChg0oghRYw0MAwo0AhA2seFm3PQXpMwCg6yPqeL42uK80Kj6q+8JgmUMZw==
   dependencies:
     "@vscode/debugadapter" "^1.66.0"
 
